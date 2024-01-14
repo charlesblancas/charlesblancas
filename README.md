@@ -1,7 +1,7 @@
 ### Hello! 🫡
 ### About me
 - 🏫 BEng. Software Engineering @ McGill, graduating May 2025
-- 🖥️ fish shell, LazyVim, and other Linux tool [configs](https://github.com/Charles-Spencer-Blancas/dotfiles))
+- 🖥️ fish shell, LazyVim, and other Linux tool [configs](https://github.com/Charles-Spencer-Blancas/dotfiles)
 - 🔨 Interesting things I've built/am building:
     - [A ray tracer](https://github.com/Charles-Spencer-Blancas/ray-tracer-challenge-go) in Go
     - [A CRC CLI app](https://github.com/Charles-Spencer-Blancas/crc-go) in Go
